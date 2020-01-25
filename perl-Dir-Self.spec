@@ -4,7 +4,6 @@
 #
 %define		pdir	Dir
 %define		pnam	Self
-%include	/usr/lib/rpm/macros.perl
 Summary:	Dir::Self - a __DIR__ constant for the directory your source file is in
 Summary(pl.UTF-8):	Dir::Self - stała __DIR__ dla katalogu, w którym znajduje się plik źródłowy
 Name:		perl-Dir-Self
